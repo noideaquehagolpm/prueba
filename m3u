@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Los Simpsons FHD" tvg-logo="https://img.tvcl.xyz/247/247.png"
+
+group-title="Canales 24/7",24/7 VIP Los Simpsons FHD
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/50616
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Los Simpsons Horror HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Los Simpsons Horror HD
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/50617
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Los Simpsons Retro SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Los Simpsons Retro SD
